@@ -1,7 +1,7 @@
 #include "shell.h"
 
 /**
- * input_buf - buffers commands
+ * input_buf - buffers
  * @info: struct
  * @buf:  buffer
  * @len: length
