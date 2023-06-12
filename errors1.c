@@ -45,7 +45,7 @@ void print_error(info_t *info, char *estr)
 }
 
 /**
- * print_d - function prints a decimal
+ * print_d - prints a decimal
  * @input: input
  * @fd: filedescriptor
  *
